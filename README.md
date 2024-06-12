@@ -12,6 +12,8 @@
 - [x] Mark as completed functionality tested and working.
 - [ ] Employee list store in firestore
 
+Screenrecording: [Here](https://drive.google.com/file/d/1_dmBY_OLGHP7WcdfUzL-HBANH28UFu9f/view?usp=sharing)
+
 ## How to Implemented
 1. Clone this Repository
 2. Open the project in Android Studio
