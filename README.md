@@ -15,8 +15,8 @@
 Screenrecording: [Here](https://drive.google.com/file/d/1_dmBY_OLGHP7WcdfUzL-HBANH28UFu9f/view?usp=sharing)
 
 ## How to Implemented
-1. Clone this Repository
-2. Open the project in Android Studio
+1. Create a project name: "Meeting Sceduling"
+2. copy java and XML files to it
 3. Setup Firebase
 4. Build and run the project
 
