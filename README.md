@@ -26,5 +26,5 @@ Screen recording: [Here](https://drive.google.com/file/d/17pHHSKzviEStPFG6Lf5Gh_
 4. Build and run the project
 
 ## App Flow
-[alt text](image_url)
+![alt text](https://github.com/noorulhuda-kk/AndroidApp-MeetingScheduling/blob/main/meeting%20app%20flow.png)
 
