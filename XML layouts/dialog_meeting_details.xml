@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/meetingTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/meetingDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date" />
+
+    <TextView
+        android:id="@+id/meetingStartTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Time" />
+
+    <TextView
+        android:id="@+id/meetingEndTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="End Time" />
+
+    <TextView
+        android:id="@+id/meetingEmployees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Employees" />
+
+    <TextView
+        android:id="@+id/meetingLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location" />
+
+    <TextView
+        android:id="@+id/meetingDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description" />
+
+    <TextView
+        android:id="@+id/meetingStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Status" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="3dp"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@android:color/white"
+        android:layout_marginEnd="5dp"
+        android:text="Close" />
+
+    <Button
+        android:id="@+id/deleteButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="3dp"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@android:color/white"
+        android:text="Delete" />
+
+    <Button
+        android:id="@+id/completedButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="3dp"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@android:color/white"
+        android:layout_marginStart="5dp"
+        android:text="Completed" />
+    </LinearLayout>
+</LinearLayout>
