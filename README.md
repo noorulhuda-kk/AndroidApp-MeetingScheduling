@@ -1,4 +1,4 @@
-# AndroidApp-MeetingScheduling
+# AndroidApp for MeetingScheduling
 ### Checklist
 - [x] Firebase Authentication
 - [x] Firestore Connectivity
