@@ -28,3 +28,4 @@ Screen recording: [Here](https://drive.google.com/file/d/17pHHSKzviEStPFG6Lf5Gh_
 ## App Flow
 ![alt text](https://github.com/noorulhuda-kk/AndroidApp-MeetingScheduling/blob/main/meeting%20app%20flow.png)
 
+Note: Further source files and implementation details are prohibited from being uploaded here as per organizational restrictions. The current repository contains work completed up to June 07, 2024 as part of my internship project.
